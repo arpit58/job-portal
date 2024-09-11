@@ -131,6 +131,10 @@ const App = () => {
         </section>
       </main>
 
+
+      {/* <h1>Arpti</h1>
+      <h2>Harsh</h2> */}
+
       <footer>
         <p>&copy; 2023 Job Portal</p>
       </footer>
